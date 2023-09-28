@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-[LINK](https://piano-automacao-git-master-bruno-melos-projects.vercel.app/)
+https://piano-automacao-git-master-bruno-melos-projects.vercel.app/
 
 Piano Automação é uma aplicação construída durante o mês de desafio de linguagens de programação do meu local de trabalho.
 
