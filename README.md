@@ -11,7 +11,7 @@ A aplicação consiste em entregar ao usuário as 7 principais notas musicais de
 O layout da página apresenta um ar tranquilo, repleto de efeitos para inspirar o usuário.
 
 ## Layout web
-![Web 1](https://github.com/BrunoMelo3/Piano-Automacao/blob/main/Piano%20Automacao/dist/img/Peace.jpg)
+![Web 1](https://github.com/BrunoMelo3/Piano-Automacao/blob/main/Piano%20Automacao/dist/img/layout.jpg)
 
 # Tecnologias utilizadas
 - HTML
